@@ -58,3 +58,7 @@ npm run build
 <img width="2560" height="1377" alt="QQ20260701-205819" src="https://github.com/user-attachments/assets/9463c275-8762-4ffe-951e-186c9291cffd" />
 <img width="2560" height="1365" alt="QQ20260701-205846" src="https://github.com/user-attachments/assets/21c95b6f-e3e7-4c53-a79e-f3da2caaa0e0" />
 
+
+# 完整版DEMO游戏客户端安装包下载地址
+https://pan.quark.cn/s/345b57cce674
+
