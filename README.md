@@ -21,9 +21,29 @@ unitypackage包   记住必须使用HDRP渲染管线打开 否则贴图会出现
 1.Node.js LTS版  下载地址 https://nodejs.org/zh-cn
 2.Vscode代码编辑器   下载地址 https://nodejs.org/zh-cn  
 3.visual studio 2019-2022 可以是Pre和Enter其中任意版本，下载后必须勾选基于Unity3D的游戏开发  下载地址 https://www.downkuai.com/soft/152351.html
+4
+# 1. 如果下载更新失败，则切换设置国内镜像（vscode内部）
+npm config set registry https://registry.npmmirror.com
+npm config set electron_mirror https://npmmirror.com/mirrors/electron/
+npm config set electron_builder_binaries_mirror https://npmmirror.com/mirrors/electron-builder-binaries/
+
+# 2. 安装 electron-updater
+npm install electron-updater --save
+
+使用外部cmd或者powershell
+
+cmd
+set ELECTRON_MIRROR=https://npmmirror.com/mirrors/electron/
+set ELECTRON_BUILDER_BINARIES_MIRROR=https://npmmirror.com/mirrors/electron-builder-binaries/
+npm run build
+
+powershell
+$env:ELECTRON_MIRROR="https://npmmirror.com/mirrors/electron/"
+$env:ELECTRON_BUILDER_BINARIES_MIRROR="https://npmmirror.com/mirrors/electron-builder-binaries/"
+npm run build
 
 
-4.注意事项 如果是纯新手下载使用此项目练手  需要提前进行HTML/CSS/JAVASCRIPT三件套基础性学习   以及学习部分Electron框架中的NSIS打包，镜像换源等操作，如果是第一次使用需要了解和熟悉系统禁用策略项，命令行是npm、ncpm、等可能会提示策略项不足，无法运行npsl命令，需要按下Win键然后以管理员身份启动Poweshell 
+5.注意事项 如果是纯新手下载使用此项目练手  需要提前进行HTML/CSS/JAVASCRIPT三件套基础性学习   以及学习部分Electron框架中的NSIS打包，镜像换源等操作，如果是第一次使用需要了解和熟悉系统禁用策略项，命令行是npm、ncpm、等可能会提示策略项不足，无法运行npsl命令，需要按下Win键然后以管理员身份启动Poweshell 
 详情查看文档  https://blog.csdn.net/echo_go/article/details/139438118
 <img width="1170" height="635" alt="QQ20260701-205515" src="https://github.com/user-attachments/assets/322ed719-da48-4726-a180-f2e5229fb1d2" />
 
