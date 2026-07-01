@@ -15,3 +15,6 @@ unitypackage包   记住必须使用HDRP渲染管线打开 否则贴图会出现
 <img width="1282" height="720" alt="QQ20260701-203418" src="https://github.com/user-attachments/assets/621c9d50-72ff-49a2-9f4d-751035a35605" />
 <img width="1284" height="720" alt="QQ20260701-203437" src="https://github.com/user-attachments/assets/16a284a4-c74c-468d-a389-d0da73a52bfd" />
 <img width="1530" height="717" alt="QQ20260701-203557" src="https://github.com/user-attachments/assets/59dfcbe7-ece8-4ced-9d58-ab08c194c465" />
+
+游戏客户端，启动程序  下载链接 
+<img width="1170" height="635" alt="QQ20260701-205515" src="https://github.com/user-attachments/assets/322ed719-da48-4726-a180-f2e5229fb1d2" />
