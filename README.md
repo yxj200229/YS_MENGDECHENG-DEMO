@@ -52,7 +52,10 @@ npm run build
 
 # 注意事项 如果是纯新手下载使用此项目练手  需要提前进行HTML/CSS/JAVASCRIPT三件套基础性学习   以及学习部分Electron框架中的NSIS打包，镜像换源等操作，如果是第一次使用需要了解和熟悉系统禁用策略项，命令行是npm、ncpm、等可能会提示策略项不足，无法运行npsl命令，需要按下Win键然后以管理员身份启动Powershell 
 详情查看文档  https://blog.csdn.net/echo_go/article/details/139438118
-<img width="1170" height="635" alt="QQ20260701-205515" src="https://github.com/user-attachments/assets/322ed719-da48-4726-a180-f2e5229fb1d2" />
+
+游戏客户端截图
+<img width="1170" height="635" alt="QQ20260701-224734" src="https://github.com/user-attachments/assets/649cb5c0-947b-4d37-b5ac-865f1ff3ae95" />
+
 
 # 部分游戏客户端开发源码
 <img width="2560" height="1377" alt="QQ20260701-205819" src="https://github.com/user-attachments/assets/9463c275-8762-4ffe-951e-186c9291cffd" />
