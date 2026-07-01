@@ -12,3 +12,8 @@
 <img width="1282" height="720" alt="QQ20260701-203418" src="https://github.com/user-attachments/assets/621c9d50-72ff-49a2-9f4d-751035a35605" />
 <img width="1284" height="720" alt="QQ20260701-203437" src="https://github.com/user-attachments/assets/16a284a4-c74c-468d-a389-d0da73a52bfd" />
 <img width="1530" height="717" alt="QQ20260701-203557" src="https://github.com/user-attachments/assets/59dfcbe7-ece8-4ced-9d58-ab08c194c465" />
+
+unitypackage包   记住必须使用HDRP渲染管线打开 否则贴图会出现紫色  夸克网盘下载链接  
+我用夸克网盘给你分享了「YS_MENGDECHENG.unitypackage」，点击链接或复制整段内容，打开「夸克网盘APP」即可获取。
+/~00983ZKu4o~:/
+链接：https://pan.quark.cn/s/592f4c8aaf3c
