@@ -6,7 +6,6 @@ unitypackage包   记住必须使用HDRP渲染管线打开 否则贴图会出现
 
 
 <img width="2561" height="1440" alt="屏幕截图 2026-07-01 131013" src="https://github.com/user-attachments/assets/45e838a9-2e43-4567-b62c-4d7a08c0a9ab" />
-<img width="3975" height="1440" alt="屏幕截图 2026-07-01 131410" src="https://github.com/user-attachments/assets/6bf233f2-8acb-4525-8001-f8e241fdd401" />
 <img width="2555" height="1440" alt="屏幕截图 2026-07-01 184427" src="https://github.com/user-attachments/assets/5f866143-c686-4aa9-8593-f32bf2cc6d67" />
 <img width="2560" height="1440" alt="屏幕截图 2026-07-01 185430" src="https://github.com/user-attachments/assets/3b1bd1c1-08c6-4891-b88f-110168cf6a33" />
 <img width="2555" height="1440" alt="屏幕截图 2026-07-01 185538" src="https://github.com/user-attachments/assets/b096af31-992e-47d3-a372-942ebf4f1965" />
